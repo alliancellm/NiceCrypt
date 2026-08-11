@@ -65,4 +65,4 @@ dotnet run
 * **File Format:** Proprietary `.nice` binary format containing Nonce, Auth Tag, and Encrypted Payload.
 
 ## ⚖ License
-Distributed under the Apoache 2  License. See `LICENSE` for more information.
+Distributed under the GPLv3 License. See `LICENSE` for more information.
